@@ -1,5 +1,5 @@
 # DjangoWebsite
-Food Delivery Website
+Food Delivery Website (Languages: Django(Python) HTML), Bootstrap(Styling)
 1. LOGIN PAGE
 2. LOGOUT PAGE
 3. REGISTER PAGE
